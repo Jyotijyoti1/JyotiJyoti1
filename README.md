@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate Marketer & Data Analyst</h3>
 
-- 🌱 I’m currently learning **Pandas Library**
+- 🌱 I am a Passionate **Data Analyst**
 
-- 💬 Ask me about **Python || Numpy || SQL**
+- 💬 Ask me about **Python || Numpy || SQL || MS Excel || PowerBI || Tableau**
 
 - 📫 How to reach me **Dmjyoti1993@gmail.com**
 
